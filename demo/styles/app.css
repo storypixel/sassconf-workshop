@@ -6,7 +6,7 @@
     display: block;
     padding-bottom: 100%; }
   .scw-dummy-image:after {
-    content: 'FPO';
+    content: "FPO";
     color: #fff;
     font: 20px/1 Helvetica;
     position: absolute;
